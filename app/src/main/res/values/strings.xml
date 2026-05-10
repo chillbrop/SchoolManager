@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SchoolManager</string>
+
+    <!-- Admin -->
+    <string name="admin_panel">Admin Panel</string>
+    <string name="add_user">Add User</string>
+    <string name="assign_roles">Assign Roles</string>
+    <string name="view_all_users">View All Users</string>
+    <string name="system_settings">System Settings</string>
+
+    <!-- Signup -->
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Student -->
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="view_assignments">View Assignments</string>
+    <string name="view_announcements">View Announcements</string>
+    <string name="my_profile">My Profile</string>
+</resources>
